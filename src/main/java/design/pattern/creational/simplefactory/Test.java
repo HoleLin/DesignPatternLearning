@@ -18,11 +18,11 @@ public class Test {
 		}
 		video.produce();
 		System.out.println("============反射=============");
-				// 使用反射获取对象
-				Video videoByRefect = videoFactory.getVideo(JavaVideo.class);
+		// 使用反射获取对象
+		Video videoByRefect = videoFactory.getVideo(JavaVideo.class);
 		if (videoByRefect == null) {
-		return;
+			return;
 		}
 		videoByRefect.produce();
-		}
-		}
+	}
+}
