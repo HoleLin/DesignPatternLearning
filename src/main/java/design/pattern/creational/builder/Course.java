@@ -1,7 +1,7 @@
 package design.pattern.creational.builder;
 
 /**
- * ClassName: Course
+ * ClassName: CourseVidoeState
  *
  * @author HoleLin
  * @version 1.0
@@ -60,7 +60,7 @@ public class Course {
 
 	@Override
 	public String toString() {
-		return "Course{" +
+		return "CourseVidoeState{" +
 				"courseName='" + courseName + '\'' +
 				", coursePPT='" + coursePPT + '\'' +
 				", courseVideo='" + courseVideo + '\'' +

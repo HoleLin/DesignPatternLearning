@@ -3,7 +3,7 @@ package design.pattern.behavioral.observer;
 import java.util.Observable;
 
 /**
- * ClassName: Course
+ * ClassName: CourseVidoeState
  *
  * @author HoleLin
  * @version 1.0

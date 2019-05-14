@@ -1,7 +1,7 @@
 package design.pattern.creational.abstractfactory;
 
 /**
- * ClassName: Article
+ * ClassName: ArticleApprover
  *
  * @author HoleLin
  * @version 1.0

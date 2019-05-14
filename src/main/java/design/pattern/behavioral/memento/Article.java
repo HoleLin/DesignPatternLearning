@@ -1,7 +1,7 @@
 package design.pattern.behavioral.memento;
 
 /**
- * ClassName: Article
+ * ClassName: ArticleApprover
  *
  * @author HoleLin
  * @version 1.0
@@ -56,7 +56,7 @@ public class Article {
 
 	@Override
 	public String toString() {
-		return "Article{" +
+		return "ArticleApprover{" +
 				"title='" + title + '\'' +
 				", content='" + content + '\'' +
 				", imgs='" + imgs + '\'' +
